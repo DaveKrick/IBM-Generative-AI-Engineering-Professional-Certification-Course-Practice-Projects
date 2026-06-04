@@ -4,3 +4,6 @@ rm -rf path/to/cloned-folder/.git
 git add path/to/cloned-folder
 git commit -m "Add forked repo files"
 git push
+
+#when calling https://...... urls make sure certificates are installed locally
+open "/Applications/Python 3.13/Install Certificates.command"
